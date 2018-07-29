@@ -18,7 +18,7 @@ for any subsequent requests.
 I have used Intellij and java 1.8 to build the app.
 
 ## Run
-Run the AuctionApplication class which starts the embedded tomcat server at localhost:8080
+Run the CarApplication class which starts the embedded tomcat server at localhost:8080
 
 ## Usage
 
